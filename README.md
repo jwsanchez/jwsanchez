@@ -8,8 +8,6 @@
 <a href="https://discord.gg/WaDyTT#4685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WaDyTT#4685" height="30" width="40" /></a>
 </p>
 
-<
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwsanchez&show_icons=true&locale=en&layout=compact" alt="jwsanchez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwsanchez&show_icons=true&locale=en" alt="jwsanchez" /></p>
